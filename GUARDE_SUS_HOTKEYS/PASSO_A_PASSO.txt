@@ -1,0 +1,50 @@
+-------------------------------- SPANISH --------------------------------------------
+
+A CONTINUACIÓN EL PASO A PASO PARA GUARDAR TUS HOTKEYS EN ESTE NUEVO CLIENTE.
+LEE EL PASO A PASO Y TAMBIÉN TENEMOS FOTOS QUE ILUSTRAN CÓMO HACERLO.
+
+Paso 1. = Imagen 1
+- Abra las opciones dentro de su cliente ANTIGUO, seleccione "Advanced Options"
+- Vaya a "Misc" y abra "Help"
+- Haga clic en "Export All Options"
+- Guárdelo en su computadora con un nombre y una ubicación fáciles de encontrar
+
+Paso 2. = Imagen 2
+- Abra las opciones dentro de su cliente NUEVO, seleccione "Advanced Options"
+- Vaya a "Misc" y abra "Help"
+- Haga clic en "Import Options/Minimap"
+- Vaya al destino que guardó el archivo anterior y cárguelo
+
+-------------------------------- ENGLISH --------------------------------------------
+
+BELOW THE STEP BY STEP TO SAVE YOUR HOTKEYS IN THIS NEW CLIENT.
+READ THE STEP BY STEP AND WE ALSO HAVE PHOTOS ILLUSTRATING HOW TO DO IT.
+
+Step 1. = Image 1
+- Open the options within your OLD client, select the "Advanced Options"
+- Go to the "Misc." and open "Help"
+- Click on "Export All Options"
+- Save to your computer with an easy-to-find name and location
+
+Step 2. = Image 2
+- Open the options within your NOVO client, select the "Advanced Options"
+- Go to the "Misc." and open "Help"
+- Click on "Import Options/Minimap"
+- Go to the destination that saved the previous file and load
+
+-------------------------------- BR -------------------------------------------------
+
+ABAIXO O PASSO A PASSO PARA SALVAR SUAS HOTKEYS NESSE CLIENT NOVO.
+LEIA O PASSO A PASSO E TAMBÉM TEMOS AS FOTOS ILUSTRANDO COMO FAZER.
+
+Passo 1. = Imagem 1
+- Abra as opções dentro do seu client ANTIGO, selecione as "Advanced Options"
+- Vá até a opção "Misc." e abra "Help"
+- Clique em "Export All Options"
+- Salve no seu computador com um nome e local fácil de encontrar
+
+Passo 2. = Imagem 2
+- Abra as opções dentro do seu client NOVO, selecione as "Advanced Options"
+- Vá até a opção "Misc." e abra "Help"
+- Clique em "Import Options/Minimap"
+- Vá no destino que salvou o arquivo anterior e dê load
